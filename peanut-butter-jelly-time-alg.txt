@@ -1,0 +1,9 @@
+Making peanut butter and jelly sandwich algorithm
+1. Take a bread
+2. Take a jar peanut butter
+3. Take a knife
+4. Put peanut butter on bread using knife
+5. Take a spoon
+6. Take a jar with jelly
+7. Put jelly on bread using spoon
+8. Close reasurces / call mama
